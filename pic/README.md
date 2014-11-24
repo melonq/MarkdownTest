@@ -16,7 +16,7 @@
 
 ### 可能会使用到的命令与站点
 
-1. Bootstrap设计辅助站点[Layoutit](www.layoutit.com)
+1. Bootstrap设计辅助站点[Layoutit](http://layoutit.com)
 
 2. 进入数据库后台命令：`tux`
 
