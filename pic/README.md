@@ -2,7 +2,7 @@
 
 1. 缩进统一采用`1 Tab == 4 Space`的形式，请不要用“空格+目测”来手动调整缩进。
 
-2. 由于server是用ruby写的，所以后端尽可能采用类ruby的命名规范，如：文件名与变量名采用小写字母+下划线的方式（这一部分下次小组讨论后再确定）。ruby的书写风格请参考[这里](https://ruby-china.org/wiki/coding-style)
+2. 由于server是用ruby写的，所以后端尽可能采用类ruby的命名规范，如：文件名与变量名采用小写字母+下划线的方式（这一部分下次小组讨论后再确定）Ruby的书写风格请参考[这里](https://ruby-china.org/wiki/coding-style)。
 
 3. 每次开始写代码时，先执行`git pull`命令将本地代码与github同步，然后再进行编写。
 
@@ -16,7 +16,7 @@
 
 ### 可能会使用到的命令与站点
 
-1. Bootstrap设计辅助站点[Layoutit](http://layoutit.com)
+1. Bootstrap设计辅助站点：[Layoutit](http://layoutit.com)
 
 2. 进入数据库后台命令：`tux`
 
