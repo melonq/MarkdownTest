@@ -5,13 +5,19 @@
   <title>JS Bin</title>
 </head>
 <body>
-<div itemscope itemtype="http://schema.org/PostalAddress">
- <span itemprop="name">Google Inc.</span>
- P.O. Box<span itemprop="postOfficeBoxNumber">1234</span>
- <span itemprop="addressLocality">Mountain View</span>,
- <span itemprop="addressRegion">CA</span>
- <span itemprop="postalCode">94043</span>
- <span itemprop="addressCountry">United States</span>
-</div>
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "PostalAddress",
+  "addressCountry": "United States",
+  "addressLocality": "Mountain View",
+  "addressRegion": "CA",
+  "name": "Google Inc.",
+  "postOfficeBoxNumber": "1234",
+  "postalCode": "94043"
+}
+</script>
+
 </body>
 </html>
